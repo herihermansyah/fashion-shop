@@ -1,6 +1,6 @@
 import React from "react";
 import TamplateAuth from "./tamplate-auth";
-import verifimage from "@/assets/verifimage.png";
+import verifimage from "@/assets/auth/verifimage.png";
 import Input from "@/components/ui/input";
 import Button from "@/components/ui/button";
 

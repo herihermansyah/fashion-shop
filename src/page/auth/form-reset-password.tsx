@@ -1,6 +1,6 @@
 import React from "react";
 import TamplateAuth from "./tamplate-auth";
-import resetimage from "../../assets/resetimage.png";
+import resetimage from "@/assets/auth/resetimage.png";
 import Input from "@/components/ui/input";
 import Button from "@/components/ui/button";
 import Link from "next/link";

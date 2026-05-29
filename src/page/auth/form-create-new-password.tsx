@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import TamplateAuth from "./tamplate-auth";
-import newpassimage from "@/assets/createpassimage.png";
+import newpassimage from "@/assets/auth/createpassimage.png";
 import Input from "@/components/ui/input";
 import {BiSolidHide} from "react-icons/bi";
 import {TfiEye} from "react-icons/tfi";

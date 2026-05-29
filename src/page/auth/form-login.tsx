@@ -4,7 +4,7 @@ import Button from "@/components/ui/button";
 import Input from "@/components/ui/input";
 import Link from "next/link";
 import TamplateAuth from "./tamplate-auth";
-import loginimage from "../../assets/auth/loginimage.png";
+import loginimage from "@/assets/auth/loginimage.png";
 import {BiSolidHide} from "react-icons/bi";
 import {TfiEye} from "react-icons/tfi";
 

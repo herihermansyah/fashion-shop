@@ -1,7 +1,7 @@
 import React from "react";
 import TamplateAuth from "./tamplate-auth";
 import Link from "next/link";
-import checkemail from "@/assets/checkimage.png";
+import checkemail from "@/assets/auth/checkimage.png";
 
 function CheckEmail() {
   return (

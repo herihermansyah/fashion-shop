@@ -3,7 +3,7 @@ import Button from "@/components/ui/button";
 import Typography from "@/components/ui/typography";
 import Image, {StaticImageData} from "next/image";
 import React from "react";
-import login from "../../assets/auth/loginimage.png";
+import login from "@/assets/auth/loginimage.png";
 import {usePathname} from "next/navigation";
 
 interface TamplateLoginProps {
