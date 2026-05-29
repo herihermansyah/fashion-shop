@@ -14,25 +14,25 @@ Berikut adalah beberapa tampilan UI/UX Design dari proyek **Euphoria Fashion Sho
   <tr>
     <td width="33.3%" align="center">
       <b>Home Page</b><br/>
-      <img src="/design/home%20page.png" alt="Home Page" width="100%"/>
+      <img src="/design/HomePage.png" alt="Home Page" width="100%"/>
     </td>
     <td width="33.3%" align="center">
       <b>Products List</b><br/>
-      <img src="/design/Products%20List%20page.png" alt="Products List" width="100%"/>
+      <img src="/design/ProductsListPage.png" alt="Products List" width="100%"/>
     </td>
     <td width="33.3%" align="center">
       <b>Product Detail</b><br/>
-      <img src="/design/Product%20detail%20Page.png" alt="Product Detail" width="100%"/>
+      <img src="/design/ProductDetailPage.png" alt="Product Detail" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="33.3%" align="center">
       <b>Cart Page</b><br/>
-      <img src="/design/Cart%20Page.png" alt="Cart Page" width="100%"/>
+      <img src="/design/CartPage.png" alt="Cart Page" width="100%"/>
     </td>
     <td width="33.3%" align="center">
       <b>Empty Cart</b><br/>
-      <img src="/design/Empty%20Cart.png" alt="Empty Cart" width="100%"/>
+      <img src="/design/EmptyCart.png" alt="Empty Cart" width="100%"/>
     </td>
     <td width="33.3%" align="center">
       <b>Checkout</b><br/>
@@ -42,11 +42,11 @@ Berikut adalah beberapa tampilan UI/UX Design dari proyek **Euphoria Fashion Sho
   <tr>
     <td width="33.3%" align="center">
       <b>Sign In</b><br/>
-      <img src="/design/Sign%20In%20Page.png" alt="Sign In" width="100%"/>
+      <img src="/design/SignInPage.png" alt="Sign In" width="100%"/>
     </td>
     <td width="33.3%" align="center">
       <b>Sign Up</b><br/>
-      <img src="/design/Sign%20up%20page.png" alt="Sign Up" width="100%"/>
+      <img src="/design/SignUpPage.png" alt="Sign Up" width="100%"/>
     </td>
     <td width="33.3%" align="center">
       <b>Verification</b><br/>
